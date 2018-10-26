@@ -1,0 +1,307 @@
+PLACEID,PLACE,EVENT START DATE,TARGET(2018_month),MONTH,EVENT END DATE
+1,Red Earth First Nation SK,14/11/2016 12:00:00 AM,1,11,18/11/2016 12:00:00 AM
+2,"Nova Scotia, Prince Edward Island and Newfoundland",9/10/2016 0:00,0,10,13/10/2016 12:00:00 AM
+3,Windsor and Tecumseh ON,29/09/2016 12:00:00 AM,1,9,29/09/2016 12:00:00 AM
+4,Fort McMurray AB,30/07/2016 12:00:00 AM,0,7,31/07/2016 12:00:00 AM
+5,Kenora ON,27/06/2016 12:00:00 AM,1,6,28/06/2016 12:00:00 AM
+6,Northeastern British Columbia,15/06/2016 12:00:00 AM,1,6,17/06/2016 12:00:00 AM
+7,Kashechewan First Nation ON,27/04/2016 12:00:00 AM,1,4,30/04/2016 12:00:00 AM
+8,Chestermere AB,12/7/2015 0:00,0,7,12/7/2015 0:00
+9,Perth-Andover NB,18/04/2015 12:00:00 AM,0,4,20/04/2015 12:00:00 AM
+10,Fort Albany and Kashcewan First Nation,17/04/2015 12:00:00 AM,0,5,11/5/2015 0:00
+11,Southern Saskatchewan,25/06/2014 12:00:00 AM,0,7,14/07/2014 12:00:00 AM
+12,New Brunswick,15/04/2014 12:00:00 AM,1,5,2/5/2014 0:00
+13,Southern Quebec,14/04/2014 12:00:00 AM,1,5,1/5/2014 0:00
+14,Toronto ON,8/7/2013 0:00,1,7,8/7/2013 0:00
+15,Southern Alberta,19/06/2013 12:00:00 AM,1,6,28/06/2013 12:00:00 AM
+16,Kasabonika Lake First Nation ON,27/05/2013 12:00:00 AM,1,5,31/05/2013 12:00:00 AM
+17,Sicamous BC,23/06/2012 12:00:00 AM,1,6,23/06/2012 12:00:00 AM
+18,"Yukon, Northwest Territories and British Columbia",6/6/2012 0:00,1,6,30/06/2012 12:00:00 AM
+19,Thunder Bay ON,28/05/2012 12:00:00 AM,1,5,28/05/2012 12:00:00 AM
+20,Fort Albany and Kashechewan First Nations ON,24/03/2012 12:00:00 AM,1,4,1/4/2012 0:00
+21,Kashechewan and Fort Albany ON,24/03/2012 12:00:00 AM,0,4,1/4/2012 0:00
+9,Perth-Andover NB,23/03/2012 12:00:00 AM,0,3,25/03/2012 12:00:00 AM
+22,"Eckville, Lacombe, Paddle River, Fort Vermilion, and Peace River AB",12/7/2011 0:00,0,7,14/07/2011 12:00:00 AM
+23,Weyburn and Estavan SK,17/06/2011 12:00:00 AM,1,7,28/06/2011 12:00:00 AM
+24,Southern Manitoba,2/6/2011 0:00,1,7,9/7/2011 0:00
+25,Calgary AB,29/05/2011 12:00:00 AM,1,5,31/05/2011 12:00:00 AM
+26,Brandon MB,10/5/2011 0:00,1,5,28/05/2011 12:00:00 AM
+27,"Assiniboine, Roseau and Red Rivers MB",19/04/2011 12:00:00 AM,1,6,17/06/2011 12:00:00 AM
+28,Montérégie QC,17/04/2011 12:00:00 AM,0,6,22/06/2011 12:00:00 AM
+12,New Brunswick and Nova Scotia,13/12/2010 12:00:00 AM,1,12,13/12/2010 12:00:00 AM
+29,Gaspé and Bonaventure QC,5/12/2010 0:00,1,12,15/12/2010 12:00:00 AM
+30,Yarmouth and Halifax NS,7/11/2010 0:00,1,12,15/12/2010 12:00:00 AM
+31,Kingcome Inlet and Bella Coola BC,24/09/2010 12:00:00 AM,0,9,25/09/2010 12:00:00 AM
+32,Meat Cove NS,21/08/2010 12:00:00 AM,1,8,22/08/2010 12:00:00 AM
+15,Southern Alberta and Saskatchewan,17/06/2010 12:00:00 AM,1,6,17/06/2010 12:00:00 AM
+33,Winnipeg MB,28/05/2010 12:00:00 AM,1,5,30/05/2010 12:00:00 AM
+34,Duncan and North Cowichan (Vancouver Island) BC,20/11/2009 12:00:00 AM,0,11,20/11/2009 12:00:00 AM
+35,Notre-Dame-des-Prairies QC,28/06/2009 12:00:00 AM,1,7,4/7/2009 0:00
+36,Rock Creek and Henderson Corner YT,1/5/2009 0:00,0,5,1/5/2009 0:00
+37,"Saint John, Miramichi and Restigouche River NB",5/4/2009 0:00,1,5,4/5/2009 0:00
+38,"Roseau River First Nation, Sioux Falls, Peguis First Nation, St. Andrews, St. Clements and Selkirk MB",24/03/2009 12:00:00 AM,1,5,21/05/2009 12:00:00 AM
+39,Pangnirtung NU,8/6/2008 0:00,0,6,9/6/2008 0:00
+40,Saint John River NB,30/05/2008 12:00:00 AM,1,5,30/05/2008 12:00:00 AM
+41,High River AB,24/05/2008 12:00:00 AM,0,5,24/05/2008 12:00:00 AM
+42,James Bay ON,9/5/2008 0:00,1,5,9/5/2008 0:00
+43,Hay River NT,5/5/2008 0:00,1,7,7/5/2008 0:00
+44,Quebec City QC,28/04/2008 12:00:00 AM,0,5,2/5/2008 0:00
+45,Albany River ON,25/04/2008 12:00:00 AM,1,4,25/04/2008 12:00:00 AM
+46,Trent Hills ON,17/04/2008 12:00:00 AM,1,4,17/04/2008 12:00:00 AM
+47,Belleville ON,14/04/2008 12:00:00 AM,0,4,14/04/2008 12:00:00 AM
+48,Paddockwood SK,14/04/2008 12:00:00 AM,1,4,14/04/2008 12:00:00 AM
+49,Port Bruce ON,18/02/2008 12:00:00 AM,1,2,18/02/2008 12:00:00 AM
+50,Prince George BC,10/12/2007 0:00,1,12,10/12/2007 0:00
+51,"Terrace, Smithers & Mount Currie BC",5/6/2007 0:00,1,6,5/6/2007 0:00
+1,Red Earth First Nation SK,19/04/2007 12:00:00 AM,0,4,19/04/2007 12:00:00 AM
+52,Selkirk MB,3/4/2007 0:00,1,4,13/04/2007 12:00:00 AM
+53,Saint-Joseph et Vallée QC,28/10/2006 12:00:00 AM,1,10,28/10/2006 12:00:00 AM
+54,Aklavik NT,27/05/2006 12:00:00 AM,1,5,27/05/2006 12:00:00 AM
+55,Slocan River BC,20/05/2006 12:00:00 AM,0,5,20/05/2006 12:00:00 AM
+56,Kashechewan ON,23/04/2006 12:00:00 AM,1,4,23/04/2006 12:00:00 AM
+57,Baie Verte Peninsula NL,17/04/2006 12:00:00 AM,1,4,17/04/2006 12:00:00 AM
+58,Red Earth SK,13/04/2006 12:00:00 AM,1,4,13/04/2006 12:00:00 AM
+59,Stephenville NL,27/09/2005 12:00:00 AM,1,9,27/09/2005 12:00:00 AM
+60,Quebec,31/08/2005 12:00:00 AM,0,8,31/08/2005 12:00:00 AM
+61,Cumberland House Cree First Nation SK,23/06/2005 12:00:00 AM,1,6,23/06/2005 12:00:00 AM
+15,Southern Alberta,6/6/2005 0:00,1,6,8/6/2005 0:00
+62,Manitoba,2/6/2005 0:00,0,6,2/6/2005 0:00
+63,Bridgewater NS,25/05/2005 12:00:00 AM,1,5,27/05/2005 12:00:00 AM
+64,Fort Good Hope NT,11/5/2005 0:00,1,5,14/05/2005 12:00:00 AM
+56,Kashechewan ON,23/04/2005 12:00:00 AM,1,4,23/04/2005 12:00:00 AM
+12,Southern New Brunswick,9/4/2005 0:00,1,5,15/05/2005 12:00:00 AM
+65,The Pas MB,21/07/2004 12:00:00 AM,0,7,21/07/2004 12:00:00 AM
+66,Attawapiskat ON,19/05/2004 12:00:00 AM,1,5,19/05/2004 12:00:00 AM
+62,South Central Manitoba,24/03/2004 12:00:00 AM,1,3,26/03/2004 12:00:00 AM
+63,Vancouver Island and Southwestern British Columbia,16/10/2003 12:00:00 AM,1,10,23/10/2003 12:00:00 AM
+64,"The Bois-Francs, Chaudière-Appalaches, Beauce, l'Outaouais, Lanaudière, and Abitibi-Témiscamingue regions QC",4/8/2003 0:00,1,8,4/8/2003 0:00
+65,Oxford and Truro NS,31/03/2003 12:00:00 AM,0,3,31/03/2003 12:00:00 AM
+66,West Coast of Newfoundland,31/03/2003 12:00:00 AM,1,3,31/03/2003 12:00:00 AM
+67,Prince Edward Island,31/03/2003 12:00:00 AM,1,3,31/03/2003 12:00:00 AM
+68,Badger NL,15/02/2003 12:00:00 AM,1,2,15/02/2003 12:00:00 AM
+15,Southern Alberta,11/6/2002 0:00,0,6,11/6/2002 0:00
+69,Southeast MB,11/6/2002 0:00,1,6,11/6/2002 0:00
+70,"Municipalities of Ignace, Fort Frances, Rainy River, Alberton, Atikokan, Chapple, Dawson, Emo, La Valle, Lake of the Woods, Morley, Machin; Township of Sioux-Narrows - Nestor Falls, ON",9/6/2002 0:00,1,6,9/6/2002 0:00
+71,British Columbia,20/05/2002 12:00:00 AM,1,5,20/05/2002 12:00:00 AM
+72,Attawapiskat First Nation ON,1/5/2002 0:00,0,5,1/5/2002 0:00
+71,Northeast and Central British Columbia,1/7/2001 0:00,1,7,1/7/2001 0:00
+73,Peace River area BC,1/6/2001 0:00,1,6,1/6/2001 0:00
+24,Southern Manitoba,1/4/2001 0:00,0,4,1/4/2001 0:00
+74,Sydney NS,2/11/2000 0:00,1,11,11/11/2000 0:00
+24,Southern Manitoba,7/7/2000 0:00,0,7,14/07/2000 12:00:00 AM
+75,Vanguard SK,3/7/2000 0:00,1,7,3/7/2000 0:00
+76,Maritime Provinces,23/09/1999 12:00:00 AM,0,9,23/09/1999 12:00:00 AM
+67,Prince Edward Island,7/9/1999 0:00,1,9,7/9/1999 0:00
+68,Clearwater AB,4/7/1999 0:00,1,7,5/7/1999 0:00
+71,British Columbia,16/06/1999 12:00:00 AM,1,6,25/06/1999 12:00:00 AM
+77,White Rock BC,8/6/1999 0:00,1,6,8/6/1999 0:00
+78,Melita MB,1/4/1999 0:00,1,4,1/4/1999 0:00
+79,Southeastern Saskatchewan,1/4/1999 0:00,0,6,30/06/1999 12:00:00 AM
+71,British Columbia,1/3/1999 0:00,1,7,30/07/1999 12:00:00 AM
+80,Eastern Ontario and Quebec,28/03/1998 12:00:00 AM,1,4,15/04/1998 12:00:00 AM
+40,Saint John River NB,9/3/1998 0:00,1,3,10/3/1998 0:00
+81,Lesser Slave Lake area AB,17/06/1997 12:00:00 AM,0,6,20/06/1997 12:00:00 AM
+71,Southern British Columbia,1/5/1997 0:00,1,5,1/5/1997 0:00
+82,"Assiniboine, Red and Winnipeg Rivers MB",22/04/1997 12:00:00 AM,0,5,14/05/1997 12:00:00 AM
+83,Peace River AB,19/04/1997 12:00:00 AM,1,4,23/04/1997 12:00:00 AM
+84,South-Central Saskatchewan,30/03/1997 12:00:00 AM,1,4,3/4/1997 0:00
+85,Durham ON,9/1/1997 0:00,1,1,9/1/1997 0:00
+86,Nechako River BC,29/11/1996 12:00:00 AM,1,11,29/11/1996 12:00:00 AM
+87,Montreal and Mauricie Region QC,8/11/1996 0:00,0,11,9/11/1996 0:00
+88,Ottawa ON,8/8/1996 0:00,1,8,8/8/1996 0:00
+89,Saguenay River Valley QC,19/07/1996 12:00:00 AM,1,7,19/07/1996 12:00:00 AM
+90,Atikokan ON,5/7/1996 0:00,1,7,6/7/1996 0:00
+81,Lesser Slave Lake area AB,17/06/1996 12:00:00 AM,0,6,21/06/1996 12:00:00 AM
+91,Timmins and Dufferin County ON,17/05/1996 12:00:00 AM,1,5,19/05/1996 12:00:00 AM
+92,"Red River, Souris River, Assiniboine River and Pembina River MB",18/04/1996 12:00:00 AM,0,5,8/5/1996 0:00
+93,Flat Bay NL,17/02/1996 12:00:00 AM,1,2,19/02/1996 12:00:00 AM
+94,Sunny Valley AB,1/1/1996 0:00,1,1,1/1/1996 0:00
+71,Southwestern British Columbia,27/11/1995 12:00:00 AM,0,11,29/11/1995 12:00:00 AM
+15,Southern Alberta,6/6/1995 0:00,1,6,9/6/1995 0:00
+71,Southeastern British Columbia,5/6/1995 0:00,0,6,9/6/1995 0:00
+95,"East Kooteney (Elk River-Watershed) Region and the municipalities of Sparwood, Fernie and surrounding areas BC",1/6/1995 0:00,1,6,1/6/1995 0:00
+96,Northeastern Saskatchewan,1/4/1995 0:00,1,4,1/4/1995 0:00
+97,Western MB,1/4/1995 0:00,0,4,1/4/1995 0:00
+98,Quebec,1/1/1995 0:00,1,1,1/1/1995 0:00
+99,Poplar Bay AB,1/1/1995 0:00,0,1,1/1/1995 0:00
+100,Plaster Rock NB and Lower St. Lawrence Region QC,16/04/1994 12:00:00 AM,1,4,26/04/1994 12:00:00 AM
+101,Southern ON,16/01/1994 12:00:00 AM,1,1,17/01/1994 12:00:00 AM
+102,Saskatchewan,29/07/1993 12:00:00 AM,1,7,29/07/1993 12:00:00 AM
+98,Quebec,29/07/1993 12:00:00 AM,0,7,30/07/1993 12:00:00 AM
+33,Winnipeg MB,25/07/1993 12:00:00 AM,1,8,14/08/1993 12:00:00 AM
+103,Swan River MB,4/7/1993 0:00,1,7,4/7/1993 0:00
+104,Upper Saint John River Valley NB,12/4/1993 0:00,1,4,12/4/1993 0:00
+105,Elmira ON,28/08/1992 12:00:00 AM,1,8,28/08/1992 12:00:00 AM
+14,Toronto ON,31/07/1992 12:00:00 AM,1,7,31/07/1992 12:00:00 AM
+106,Yukon Rivers YT,17/06/1992 12:00:00 AM,0,7,30/07/1992 12:00:00 AM
+66,Attawapiskat ON,18/05/1992 12:00:00 AM,1,5,18/05/1992 12:00:00 AM
+43,Hay River NT,25/04/1992 12:00:00 AM,1,4,25/04/1992 12:00:00 AM
+107,"Sainte-Brigitte-de-Laval, about 40 km north of Québec City QC",12/3/1992 0:00,1,3,12/3/1992 0:00
+83,Peace River AB,28/02/1992 12:00:00 AM,1,3,4/3/1992 0:00
+108,Lethbridge AB,1/1/1992 0:00,1,1,1/1/1992 0:00
+71,Northwestern British Columbia,8/10/1991 0:00,0,10,14/10/1991 12:00:00 AM
+71,Southwestern British Columbia,29/08/1991 12:00:00 AM,1,9,1/9/1991 0:00
+109,Old Crow YT,8/5/1991 0:00,1,5,9/5/1991 0:00
+110,Chaudière River QC,7/4/1991 0:00,1,4,8/4/1991 0:00
+111,Newfoundland,9/12/1990 0:00,1,12,9/12/1990 0:00
+71,Southwestern British Columbia,8/11/1990 0:00,1,11,13/11/1990 12:00:00 AM
+112,Woodstock NB,1/8/1990 0:00,0,8,1/8/1990 0:00
+113,Western Alberta,25/05/1990 12:00:00 AM,1,7,4/7/1990 0:00
+71,Southwestern British Columbia,8/11/1989 0:00,1,11,12/11/1989 0:00
+114,"Harrow, Kent, Essex, Leamington counties ON",19/07/1989 12:00:00 AM,0,7,20/07/1989 12:00:00 AM
+115,Liard River NT,1/5/1989 0:00,1,5,9/5/1989 0:00
+116,Albany and Attawapiskat River ON,1/1/1989 0:00,1,1,1/1/1989 0:00
+117,Lesser Slave Lake region AB,5/7/1988 0:00,0,7,8/7/1988 0:00
+118,Norman Wells NT,29/06/1988 12:00:00 AM,1,6,29/06/1988 12:00:00 AM
+15,Central and Southern Alberta,28/06/1988 12:00:00 AM,1,6,29/06/1988 12:00:00 AM
+119,"Lethbridge, Taber, Irma and Wainwright AB",4/6/1988 0:00,0,6,11/6/1988 0:00
+103,Duck Mountain and Swan River MB,1/4/1988 0:00,1,4,1/4/1988 0:00
+120,Goulais River ON,1/1/1988 0:00,1,1,1/1/1988 0:00
+71,Northern British Columbia,1/1/1988 0:00,1,1,1/1/1988 0:00
+121,Montreal QC,14/07/1987 12:00:00 AM,1,7,14/07/1987 12:00:00 AM
+122,Lake St. Clair ON,4/4/1987 0:00,1,4,4/4/1987 0:00
+9,Perth-Andover NB,2/4/1987 0:00,1,4,2/4/1987 0:00
+98,Southcentral Quebec,28/03/1987 12:00:00 AM,1,4,5/4/1987 0:00
+71,East Central British Columbia,1/8/1986 0:00,1,8,1/8/1986 0:00
+102,Saskatchewan and Alberta,16/07/1986 12:00:00 AM,1,7,24/07/1986 12:00:00 AM
+123,North-central Alberta,13/07/1986 12:00:00 AM,1,7,24/07/1986 12:00:00 AM
+124,Winisk ON,16/05/1986 12:00:00 AM,1,5,16/05/1986 12:00:00 AM
+125,Icelandic River and Fisher River MB,1/4/1986 0:00,0,6,30/06/1986 12:00:00 AM
+112,"Saint John River, between Simonds and Woodstock NB",1/4/1986 0:00,1,4,4/4/1986 0:00
+126,Riviere Chaudière QC,30/03/1986 12:00:00 AM,1,4,1/4/1986 0:00
+127,Lake Huron and Lake Erie ON,2/12/1985 0:00,1,12,2/12/1985 0:00
+128,"Hay River Township, south shore of Great Slave Lake NT",3/5/1985 0:00,0,5,3/5/1985 0:00
+129,Lake Erie ON,31/03/1985 12:00:00 AM,1,4,6/4/1985 0:00
+130,Chatham ON,23/02/1985 12:00:00 AM,1,3,2/3/1985 0:00
+131,Pemberton area BC,6/10/1984 0:00,1,10,8/10/1984 0:00
+132,Saint John River Basin NB,25/04/1984 12:00:00 AM,0,5,6/5/1984 0:00
+101,Southern Ontario,13/02/1984 12:00:00 AM,1,2,17/02/1984 12:00:00 AM
+133,Truro NS,5/2/1984 0:00,1,2,8/2/1984 0:00
+134,Lower Fraser River Valley BC,4/1/1984 0:00,1,1,5/1/1984 0:00
+102,Northeast Saskatchewan,1/1/1984 0:00,0,1,1/1/1984 0:00
+135,Avalon Peninsula NL,22/12/1983 12:00:00 AM,1,12,25/12/1983 12:00:00 AM
+136,Gaspésie QC,7/12/1983 0:00,1,12,7/12/1983 0:00
+137,"upper Richelieu River, Montréal QC",10/5/1983 0:00,1,5,10/5/1983 0:00
+138,"North shore of St. Lawrence River, and Yamachiche Maskinonge River basins QC",19/03/1983 12:00:00 AM,0,3,20/03/1983 12:00:00 AM
+68,Badger NL,28/02/1983 12:00:00 AM,1,3,10/3/1983 0:00
+111,"Central, southern, and western Newfoundland",11/1/1983 0:00,1,1,19/01/1983 12:00:00 AM
+139,Central Alberta,1/1/1983 0:00,1,1,1/1/1983 0:00
+140,Grande Prairie AB,13/07/1982 12:00:00 AM,1,8,3/8/1982 0:00
+55,Aklavik NT,1/6/1982 0:00,0,6,6/6/1982 0:00
+141,Sherbrooke QC,17/04/1982 12:00:00 AM,1,4,17/04/1982 12:00:00 AM
+43,Hay River NT,1/1/1982 0:00,1,1,1/1/1982 0:00
+142,Westfield and Grand Bay NB,1/8/1981 0:00,0,8,1/8/1981 0:00
+143,Southeastern ON,18/02/1981 12:00:00 AM,1,2,20/02/1981 12:00:00 AM
+144,Edmonton AB,1/1/1981 0:00,1,1,1/1/1981 0:00
+145,Sussex NB,1/1/1981 0:00,1,1,1/1/1981 0:00
+146,Squamish River BC,26/12/1980 12:00:00 AM,1,12,27/12/1980 12:00:00 AM
+147,Gaspésie Region QC,6/7/1980 0:00,0,7,7/7/1980 0:00
+101,Southern Ontario,21/03/1980 12:00:00 AM,1,3,22/03/1980 12:00:00 AM
+148,Vancouver Island BC,18/12/1979 12:00:00 AM,1,12,18/12/1979 12:00:00 AM
+149,Central Ontario,12/5/1979 0:00,1,5,12/5/1979 0:00
+150,Dawson YT,3/5/1979 0:00,1,5,3/5/1979 0:00
+149,Central Ontario,24/04/1979 12:00:00 AM,0,4,24/04/1979 12:00:00 AM
+12,New Brunswick,24/04/1979 12:00:00 AM,1,5,7/5/1979 0:00
+150,Red River region MB,1/4/1979 0:00,1,5,31/05/1979 12:00:00 AM
+151,Southwestern Ontario,5/3/1979 0:00,0,3,5/3/1979 0:00
+25,Calgary AB,1/1/1979 0:00,1,1,1/1/1979 0:00
+108,Lethbridge AB,1/1/1979 0:00,1,1,1/1/1979 0:00
+83,Peace River AB,1/1/1979 0:00,1,1,1/1/1979 0:00
+71,"Kicking Horse Pass, Alberta - British Columbia border",1/11/1978 0:00,0,11,1/11/1978 0:00
+71,Northwestern British Columbia,29/10/1978 12:00:00 AM,1,11,7/11/1978 0:00
+144,Edmonton AB,10/7/1978 0:00,1,7,11/7/1978 0:00
+152,Milk River and area AB,1/4/1978 0:00,1,8,31/08/1978 12:00:00 AM
+111,Newfoundland,14/01/1978 12:00:00 AM,0,1,16/01/1978 12:00:00 AM
+153,Corner Brook NL,27/12/1977 12:00:00 AM,1,12,27/12/1977 12:00:00 AM
+149,Southern and Central Ontario,13/03/1977 12:00:00 AM,1,3,13/03/1977 12:00:00 AM
+154,"Fort McMurray, Rainbow Lake AB",1/1/1977 0:00,0,3,1/1/1977 0:00
+14,Toronto ON,27/08/1976 12:00:00 AM,1,8,27/08/1976 12:00:00 AM
+155,Grand Falls NL,4/5/1976 0:00,1,5,4/5/1976 0:00
+156,Assiniboine River MB,1/4/1976 0:00,0,4,1/4/1976 0:00
+132,Saint John River Basin NB,31/03/1976 12:00:00 AM,1,4,5/4/1976 0:00
+102,Saskatchewan,1/3/1976 0:00,1,4,15/04/1976 12:00:00 AM
+98,Quebec,1/3/1976 0:00,0,7,15/07/1976 12:00:00 AM
+157,Regina SK,25/06/1975 12:00:00 AM,1,6,25/06/1975 12:00:00 AM
+158,Southwestern AB,1/6/1975 0:00,1,6,1/6/1975 0:00
+102,Saskatchewan,1/4/1975 0:00,1,5,31/05/1975 12:00:00 AM
+159,Cambridge/Waterloo Region ON,17/05/1974 12:00:00 AM,0,5,21/05/1974 12:00:00 AM
+128,"Hay River Township, south shore of Great Slave Lake NT",2/5/1974 0:00,1,5,2/5/1974 0:00
+132,Saint John River Basin NB,29/04/1974 12:00:00 AM,1,4,29/04/1974 12:00:00 AM
+24,Central and Southern Manitoba,1/4/1974 0:00,1,5,31/05/1974 12:00:00 AM
+160,Central and Northern Alberta,1/3/1974 0:00,1,6,30/06/1974 12:00:00 AM
+102,Saskatchewan,1/1/1974 0:00,1,1,1/1/1974 0:00
+161,Maniwaki QC,1/1/1974 0:00,0,6,30/06/1974 12:00:00 AM
+132,Saint John River Basin NB,27/04/1973 12:00:00 AM,1,5,5/5/1973 0:00
+162,Lake Huron ON,1/3/1973 0:00,1,4,30/04/1973 12:00:00 AM
+163,Smoky and Peace River Basins AB,11/6/1972 0:00,0,6,13/06/1972 12:00:00 AM
+153,Corner Brook NL,15/05/1972 12:00:00 AM,1,5,15/05/1972 12:00:00 AM
+50,Prince George BC,1/5/1972 0:00,0,5,1/5/1972 0:00
+164,Richelieu River QC,1/4/1972 0:00,1,5,1/6/1972 0:00
+165,Saint-Jean QC,1/5/1971 0:00,1,5,1/5/1971 0:00
+121,Montreal QC,1/4/1971 0:00,0,4,30/04/1971 12:00:00 AM
+166,Nova Scotia,13/02/1971 12:00:00 AM,1,2,15/02/1971 12:00:00 AM
+149,Central Ontario,27/06/1970 12:00:00 AM,1,6,28/06/1970 12:00:00 AM
+33,Winnipeg MB,30/04/1970 12:00:00 AM,1,4,30/04/1970 12:00:00 AM
+110,Chaudière River QC,22/04/1970 12:00:00 AM,1,5,5/5/1970 0:00
+132,Saint John River Basin NB,2/2/1970 0:00,1,2,6/2/1970 0:00
+111,Newfoundland,19/05/1969 12:00:00 AM,0,5,21/05/1969 12:00:00 AM
+167,Iroquois NB,11/5/1969 0:00,1,5,11/5/1969 0:00
+33,Winnipeg MB,2/5/1969 0:00,1,5,2/5/1969 0:00
+168,Qu'Appelle River Basin SK,1/1/1969 0:00,1,1,1/1/1969 0:00
+101,Southwestern and Southern Ontario,2/2/1968 0:00,0,2,2/2/1968 0:00
+169,Baie-Comeau QC,3/11/1966 0:00,1,2,3/11/1966 0:00
+33,Winnipeg MB,14/04/1966 12:00:00 AM,1,4,14/04/1966 12:00:00 AM
+170,St. Lawrence River QC,1/1/1965 0:00,0,1,1/1/1965 0:00
+128,"Hay River Township, south shore of Great Slave Lake NT",3/5/1963 0:00,1,5,3/5/1963 0:00
+12,Southeastern New Brunswick,31/03/1962 12:00:00 AM,0,4,4/4/1962 0:00
+67,Prince Edward Island,1/1/1962 0:00,1,1,1/1/1962 0:00
+71,Northwestern British Columbia,10/10/1961 0:00,1,10,14/10/1961 12:00:00 AM
+171,Timmins ON,31/08/1961 12:00:00 AM,1,8,31/08/1961 12:00:00 AM
+132,Saint John River Basin NB,25/05/1961 12:00:00 AM,1,5,31/05/1961 12:00:00 AM
+149,Southern and Central Ontario,9/5/1960 0:00,1,5,14/05/1960 12:00:00 AM
+33,Winnipeg MB,18/04/1960 12:00:00 AM,0,4,18/04/1960 12:00:00 AM
+172,Thetford Mines QC,1/1/1957 0:00,1,1,1/1/1957 0:00
+101,Southern Ontario,30/08/1956 12:00:00 AM,1,8,31/08/1956 12:00:00 AM
+166,Nova Scotia,3/1/1956 0:00,0,1,18/01/1956 12:00:00 AM
+62,Manitoba and Saskatchewan,1/1/1955 0:00,1,1,1/1/1955 0:00
+101,Southern Ontario,15/02/1954 12:00:00 AM,0,2,18/02/1954 12:00:00 AM
+173,Eastend SK,1/4/1952 0:00,1,5,1/5/1952 0:00
+174,"Stephenville Crossing, Summerside NL",19/12/1951 12:00:00 AM,1,12,19/12/1951 12:00:00 AM
+175,Bow River BC,1/1/1951 0:00,1,1,1/1/1951 0:00
+176,Sumas and Chilliwack BC,1/1/1951 0:00,1,1,1/1/1951 0:00
+33,Winnipeg MB,5/5/1950 0:00,1,6,15/06/1950 12:00:00 AM
+132,Saint John River Basin NB,20/04/1950 12:00:00 AM,1,4,20/04/1950 12:00:00 AM
+101,Southern Ontario,4/4/1950 0:00,1,4,8/4/1950 0:00
+101,Southern Ontario,24/03/1950 12:00:00 AM,0,3,29/03/1950 12:00:00 AM
+177,St. John's NL,14/09/1948 12:00:00 AM,1,9,14/09/1948 12:00:00 AM
+178,Fraser River BC,31/05/1948 12:00:00 AM,0,5,31/05/1948 12:00:00 AM
+179,Red Deer River AB,21/04/1948 12:00:00 AM,1,4,21/04/1948 12:00:00 AM
+101,Southern Ontario,16/03/1948 12:00:00 AM,1,3,16/03/1948 12:00:00 AM
+180,Bristol NB,30/04/1947 12:00:00 AM,1,4,30/04/1947 12:00:00 AM
+101,Southern ON,5/4/1947 0:00,1,4,12/4/1947 0:00
+181,Elgin NB,5/2/1947 0:00,0,2,5/2/1947 0:00
+182,"Burin Peninsula, St. John's and Little St. Lawrence NL",2/8/1941 0:00,1,8,2/8/1941 0:00
+101,Southern Ontario,26/04/1937 12:00:00 AM,1,4,28/04/1937 12:00:00 AM
+101,Southern Ontario,13/01/1937 12:00:00 AM,0,1,14/01/1937 12:00:00 AM
+12,New Brunswick,16/03/1936 12:00:00 AM,1,3,25/03/1936 12:00:00 AM
+101,Southern Ontario,10/3/1936 0:00,0,3,12/3/1936 0:00
+166,Nova Scotia,10/1/1935 0:00,1,1,15/01/1935 12:00:00 AM
+183,Plaster Rock NB,16/04/1934 12:00:00 AM,0,4,24/04/1934 12:00:00 AM
+12,Southern New Brunswick,25/10/1933 12:00:00 AM,1,10,25/10/1933 12:00:00 AM
+12,New Brunswick and Eastern Quebec,4/5/1933 0:00,0,5,4/5/1933 0:00
+101,Southern Ontario,5/4/1929 0:00,1,4,9/4/1929 0:00
+101,Southern Ontario,18/01/1929 12:00:00 AM,1,1,20/01/1929 12:00:00 AM
+184,Pike Lake SK,1/4/1928 0:00,0,4,1/4/1928 0:00
+185,"Rideau, Chaudière and Quyon Rivers QC",1/1/1928 0:00,1,1,1/1/1928 0:00
+150,Dawson YT,7/5/1925 0:00,0,5,7/5/1925 0:00
+132,Saint John River Basin NB,29/04/1923 12:00:00 AM,1,5,9/5/1923 0:00
+33,Winnipeg MB,1/1/1923 0:00,0,1,1/1/1923 0:00
+132,Saint John River Basin NB,17/06/1922 12:00:00 AM,1,6,25/06/1922 12:00:00 AM
+151,Southwestern Ontario,17/03/1920 12:00:00 AM,1,3,21/03/1920 12:00:00 AM
+71,Northwestern British Columbia,28/10/1917 12:00:00 AM,0,11,19/11/1917 12:00:00 AM
+33,Winnipeg MB,24/04/1916 12:00:00 AM,1,4,24/04/1916 12:00:00 AM
+12,Northeastern New Brunswick,8/7/1915 0:00,0,7,9/7/1915 0:00
+102,North Saskatchewan River AB and SK,1/1/1915 0:00,1,1,1/1/1915 0:00
+186,Chester NB,4/1/1909 0:00,0,1,4/1/1909 0:00
+187,Red River MB,24/04/1904 12:00:00 AM,1,4,24/04/1904 12:00:00 AM
+132,Saint John River Basin NB,1/3/1902 0:00,1,3,1/3/1902 0:00
