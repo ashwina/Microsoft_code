@@ -1,6 +1,6 @@
 import pandas as pd
 import numpy as np
-df = pd.read_csv("C:/Users/ashwinak/Desktop/flood_dataset.csv")
+df = pd.read_csv("Microsoft_code_fun_do/flood_dataset.csv")
 df.head()
 from sklearn import linear_model
 logreg = linear_model.LogisticRegression()
